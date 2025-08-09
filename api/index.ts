@@ -12,7 +12,7 @@ interface ResponseQuery {
   quote: string;
   author: string;
   border: boolean;
-  // Custom color parameters
+  category?: string; // Added by me (ModuleMaster64)
   quoteColor?: string;
   authorColor?: string;
   backgroundColor?: string;
@@ -26,6 +26,7 @@ const handler = async (req: VercelRequest, res: VercelResponse) => {
     quote, 
     author, 
     border,
+    category, // Added by me (ModuleMaster64)
     quoteColor,
     authorColor,
     backgroundColor,
@@ -45,8 +46,24 @@ const handler = async (req: VercelRequest, res: VercelResponse) => {
       author: 'Me'
     };
   } else {
-    data = await fetchQuotes();
+  const allQuotes = await fetchQuotes();
+  const categoryLower = category?.toLowerCase();
+
+  let filteredQuotes = allQuotes;
+
+  if (categoryLower) {
+    filteredQuotes = allQuotes.filter(q => q.category?.toLowerCase() === categoryLower);
+    if (filteredQuotes.length === 0) {
+      filteredQuotes = allQuotes; // fallback to all quotes
+    }
   }
+
+  const randomQuote = filteredQuotes[Math.floor(Math.random() * filteredQuotes.length)];
+  data = {
+    quote: randomQuote.quote,
+    author: randomQuote.author
+  };
+}
 
   // Custom colors object
   const customColors = {
