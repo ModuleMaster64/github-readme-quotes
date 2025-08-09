@@ -1,0 +1,202 @@
+[
+  {
+    "quote": "Code is like humor. When you have to explain it, it’s bad.",
+    "author": "Cory House",
+    "category": "technical"
+  },
+  {
+    "quote": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson",
+    "category": "technical"
+  },
+  {
+    "quote": "The best way to get a project done faster is to start sooner.",
+    "author": "Jim Highsmith",
+    "category": "technical"
+  },
+  {
+    "quote": "Life is 10% what happens to us and 90% how we react to it.",
+    "author": "Charles R. Swindoll",
+    "category": "life"
+  },
+  {
+    "quote": "Do not take life too seriously. You will never get out of it alive.",
+    "author": "Elbert Hubbard",
+    "category": "humorous"
+  },
+  {
+    "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+    "author": "Edsger Dijkstra",
+    "category": "humorous"
+  },
+  {
+    "quote": "Simplicity is the soul of efficiency.",
+    "author": "Austin Freeman",
+    "category": "technical"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "inspirational"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+    "author": "Winston Churchill",
+    "category": "inspirational"
+  },
+  {
+    "quote": "Wisdom is not a product of schooling but of the lifelong attempt to acquire it.",
+    "author": "Albert Einstein",
+    "category": "wisdom"
+  },
+  {
+    "quote": "A day without laughter is a day wasted.",
+    "author": "Charlie Chaplin",
+    "category": "humorous"
+  },
+  {
+    "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+    "author": "Steve Jobs",
+    "category": "life"
+  },
+  {
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "category": "inspirational"
+  },
+  {
+    "quote": "Knowledge speaks, but wisdom listens.",
+    "author": "Jimi Hendrix",
+    "category": "wisdom"
+  },
+  {
+    "quote": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds",
+    "category": "technical"
+  },
+  {
+    "quote": "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "author": "Unknown",
+    "category": "humorous"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "life"
+  },
+  {
+    "quote": "The measure of intelligence is the ability to change.",
+    "author": "Albert Einstein",
+    "category": "wisdom"
+  },
+  {
+    "quote": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson",
+    "category": "technical"
+  },
+  {
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "category": "inspirational"
+  },
+  {
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler",
+    "category": "technical"
+  },
+  {
+    "quote": "The most disastrous thing that you can ever learn is your first programming language.",
+    "author": "Alan Kay",
+    "category": "technical"
+  },
+  {
+    "quote": "Life isn’t about finding yourself. Life is about creating yourself.",
+    "author": "George Bernard Shaw",
+    "category": "life"
+  },
+  {
+    "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison",
+    "category": "inspirational"
+  },
+  {
+    "quote": "The difference between stupidity and genius is that genius has its limits.",
+    "author": "Albert Einstein",
+    "category": "humorous"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "wisdom"
+  },
+  {
+    "quote": "The best error message is the one that never shows up.",
+    "author": "Thomas Fuchs",
+    "category": "technical"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "life"
+  },
+  {
+    "quote": "The road to success is always under construction.",
+    "author": "Lily Tomlin",
+    "category": "humorous"
+  },
+  {
+    "quote": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "inspirational"
+  },
+  {
+    "quote": "The quieter you become, the more you are able to hear.",
+    "author": "Rumi",
+    "category": "wisdom"
+  },
+  {
+    "quote": "There are two ways to write error-free programs; only the third one works.",
+    "author": "Alan J. Perlis",
+    "category": "technical"
+  },
+  {
+    "quote": "Life is short. Smile while you still have teeth.",
+    "author": "Mallory Hopkins",
+    "category": "humorous"
+  },
+  {
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau",
+    "category": "inspirational"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "wisdom"
+  },
+  {
+    "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+    "author": "Doug Linder",
+    "category": "technical"
+  },
+  {
+    "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+    "author": "Albert Einstein",
+    "category": "life"
+  },
+  {
+    "quote": "Why do Java developers wear glasses? Because they don't C#.",
+    "author": "Unknown",
+    "category": "humorous"
+  },
+  {
+    "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "category": "inspirational"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "wisdom"
+  }
+]
